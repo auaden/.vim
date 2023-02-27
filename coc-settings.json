@@ -1,0 +1,15 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "javascriptreact",
+    "typescript.tsx",
+    "elixir",
+		"prisma",
+		"css"
+  ],
+  "elixir.pathToElixirLS": "~/.elixir-ls/release/language_server.sh",
+  "diagnostic.checkCurrentLine": true
+}
