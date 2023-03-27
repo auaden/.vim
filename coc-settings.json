@@ -8,7 +8,8 @@
     "typescript.tsx",
     "elixir",
 		"prisma",
-		"css"
+		"css",
+		"html"
   ],
   "elixir.pathToElixirLS": "~/.elixir-ls/release/language_server.sh",
   "diagnostic.checkCurrentLine": true

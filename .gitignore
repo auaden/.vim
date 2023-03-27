@@ -1,1 +1,9 @@
 .DS_Store
+
+autoload
+backup
+bundle
+colors
+pack
+plugged
+
